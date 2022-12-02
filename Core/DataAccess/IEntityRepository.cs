@@ -1,5 +1,5 @@
-﻿using Entities.Abstract;
-using Entities.Concrete;
+﻿
+using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     // Yazılım geliştirme hayatınızda bi kere yazacağınz ve bir daha yazmayacağınız bir yapıdır.
     // generic constraint= generic kısıtlama
